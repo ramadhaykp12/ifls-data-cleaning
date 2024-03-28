@@ -1,0 +1,118 @@
+Podes '93 Section 08 Descriptive Statistics                228
+                                                 20:26 Monday, February 27, 1995
+
+                               CONTENTS PROCEDURE
+
+Data Set Name: HERE.POD93_08                         Observations:         65060
+Member Type:   DATA                                  Variables:            34   
+Engine:        V609                                  Indexes:              0    
+Created:       20:53 Monday, February 27, 1995       Observation Length:   104  
+Last Modified: 20:53 Monday, February 27, 1995       Deleted Observations: 0    
+Protection:                                          Compressed:           NO   
+Data Set Type:                                       Sorted:               YES  
+Label:                                                                          
+
+                  -----Engine/Host Dependent Information-----
+
+                       Data Set Page Size:       4096    
+                       Number of Data Set Pages: 1670    
+                       File Format:              607     
+                       First Data Page:          2       
+                       Max Obs per Page:         39      
+                       Obs in First Data Page:   34      
+
+              -----Alphabetic List of Variables and Attributes-----
+ 
+                       #    Variable    Type    Len    Pos
+                      ------------------------------------
+                       4    DESA        Char      4      7
+                       2    KAB         Char      2      2
+                       3    KEC         Char      3      4
+                      23    P08A3       Char      1     43
+                       5    P08A1A      Char      1     11
+                       6    P08A1B      Char      1     12
+                       7    P08A1C      Char      1     13
+                       8    P08A2A01    Char      1     14
+                       9    P08A2A02    Char      1     15
+                      10    P08A2A03    Char      1     16
+                      11    P08A2A04    Char      1     17
+                      12    P08A2A05    Char      1     18
+                      13    P08A2A06    Char      1     19
+                      14    P08A2A07    Char      1     20
+                      15    P08A2A08    Char      1     21
+                      16    P08A2A09    Char      1     22
+                      17    P08A2A10    Char      1     23
+                      18    P08A2A11    Char      1     24
+                      19    P08A2A12    Char      1     25
+                      20    P08A2B      Num       8     26
+                      21    P08A2C      Char      1     34
+                      22    P08A2D      Num       8     35
+                      24    P08A4A      Num       8     44
+                      25    P08A4B      Num       8     52
+                      26    P08B1A      Char      1     60
+                      27    P08B1B      Num       8     61
+                      28    P08B1C      Num       8     69
+                      29    P08B2A      Char      1     77
+                      30    P08B2B      Num       8     78
+                      34    P08C2       Char      1    103
+                      31    P08C1A      Char      1     86
+                      32    P08C1B      Num       8     87
+                      33    P08C1C      Num       8     95
+                  Podes '93 Section 08 Descriptive Statistics                229
+                                                 20:26 Monday, February 27, 1995
+
+                               CONTENTS PROCEDURE
+
+                       #    Variable    Type    Len    Pos
+                      ------------------------------------
+                       1    PROV        Char      2      0
+                  Podes '93 Section 08 Descriptive Statistics                230
+                                                 20:26 Monday, February 27, 1995
+
+                               CONTENTS PROCEDURE
+
+                     -----Variables Ordered by Position-----
+ 
+                       #    Variable    Type    Len    Pos
+                      ------------------------------------
+                       1    PROV        Char      2      0
+                       2    KAB         Char      2      2
+                       3    KEC         Char      3      4
+                       4    DESA        Char      4      7
+                       5    P08A1A      Char      1     11
+                       6    P08A1B      Char      1     12
+                       7    P08A1C      Char      1     13
+                       8    P08A2A01    Char      1     14
+                       9    P08A2A02    Char      1     15
+                      10    P08A2A03    Char      1     16
+                      11    P08A2A04    Char      1     17
+                      12    P08A2A05    Char      1     18
+                      13    P08A2A06    Char      1     19
+                      14    P08A2A07    Char      1     20
+                      15    P08A2A08    Char      1     21
+                      16    P08A2A09    Char      1     22
+                      17    P08A2A10    Char      1     23
+                      18    P08A2A11    Char      1     24
+                      19    P08A2A12    Char      1     25
+                      20    P08A2B      Num       8     26
+                      21    P08A2C      Char      1     34
+                      22    P08A2D      Num       8     35
+                      23    P08A3       Char      1     43
+                      24    P08A4A      Num       8     44
+                      25    P08A4B      Num       8     52
+                      26    P08B1A      Char      1     60
+                      27    P08B1B      Num       8     61
+                      28    P08B1C      Num       8     69
+                      29    P08B2A      Char      1     77
+                      30    P08B2B      Num       8     78
+                      31    P08C1A      Char      1     86
+                      32    P08C1B      Num       8     87
+                      33    P08C1C      Num       8     95
+                      34    P08C2       Char      1    103
+
+                           -----Sort Information-----
+
+                        Sortedby:      PROV KAB KEC DESA
+                        Validated:     YES              
+                        Character Set: ANSI             
+                        Sort Option:   NODUPKEY  
