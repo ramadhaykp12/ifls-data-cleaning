@@ -1,0 +1,654 @@
+Podes '93 Section 08 Descriptive Statistics                214
+                            Duplicate ID frequencies
+                                                 20:26 Monday, February 27, 1995
+
+                       ---------------------------------
+                       |                  |     N      |
+                       |------------------+------------|
+                       |PROV     KAB      |            |
+                       |17       01       |      389.00|
+                       |         02       |      304.00|
+                       |         03       |      390.00|
+                       |         71       |       55.00|
+                       |33       11       |      167.00|
+                       |         12       |      294.00|
+                       ---------------------------------
+                  Podes '93 Section 08 Descriptive Statistics                215
+                                Univariate Stats 20:26 Monday, February 27, 1995
+
+                              Univariate Procedure
+
+Variable=P08A2B
+
+                                    Moments
+
+                    N             60904  Sum Wgts      60904
+                    Mean       6.582441  Sum          400897
+                    Std Dev    2.011926  Variance   4.047848
+                    Skewness   -0.10656  Kurtosis    1.80217
+                    USS         2885407  CSS        246526.1
+                    CV         30.56505  Std Mean   0.008152
+                    T:Mean=0   807.4169  Pr>|T|       0.0001
+                    Num ^= 0      60904  Num > 0       60904
+                    M(Sign)       30452  Pr>=|M|      0.0001
+                    Sgn Rank   9.2734E8  Pr>=|S|      0.0001
+
+
+                                Quantiles(Def=5)
+
+                     100% Max        12       99%        12
+                      75% Q3          7       95%        10
+                      50% Med         7       90%         9
+                      25% Q1          5       10%         4
+                       0% Min         1        5%         2
+                                               1%         1
+                     Range           11                    
+                     Q3-Q1            2                    
+                     Mode             7                    
+
+
+                                    Extremes
+
+                       Lowest    Obs     Highest    Obs
+                            1(   64791)       12(   64709)
+                            1(   64789)       12(   64710)
+                            1(   62424)       12(   64714)
+                            1(   61990)       12(   64720)
+                            1(   61988)       12(   64793)
+
+
+                            Missing Value         .
+                            Count              4156
+                            % Count/Nobs       6.39
+
+
+                  Podes '93 Section 08 Descriptive Statistics                216
+                                Univariate Stats 20:26 Monday, February 27, 1995
+
+                              Univariate Procedure
+
+Variable=P08A2D
+
+                                    Moments
+
+                    N             35000  Sum Wgts      35000
+                    Mean       13.17671  Sum          461185
+                    Std Dev    24.82061  Variance   616.0626
+                    Skewness   2.650679  Kurtosis   5.912882
+                    USS        27638477  CSS        21561574
+                    CV         188.3672  Std Mean   0.132672
+                    T:Mean=0   99.31818  Pr>|T|       0.0001
+                    Num ^= 0      31129  Num > 0       31129
+                    M(Sign)     15564.5  Pr>=|M|      0.0001
+                    Sgn Rank   2.4226E8  Pr>=|S|      0.0001
+
+
+                                Quantiles(Def=5)
+
+                     100% Max        99       99%        99
+                      75% Q3         10       95%        98
+                      50% Med         3       90%        38
+                      25% Q1          1       10%         0
+                       0% Min         0        5%         0
+                                               1%         0
+                     Range           99                    
+                     Q3-Q1            9                    
+                     Mode             1                    
+
+
+                                    Extremes
+
+                       Lowest    Obs     Highest    Obs
+                            0(   65060)       99(   63609)
+                            0(   65059)       99(   63610)
+                            0(   65058)       99(   63841)
+                            0(   65057)       99(   64714)
+                            0(   65056)       99(   64716)
+
+
+                            Missing Value         .
+                            Count             30060
+                            % Count/Nobs      46.20
+
+
+                  Podes '93 Section 08 Descriptive Statistics                217
+                                Univariate Stats 20:26 Monday, February 27, 1995
+
+                              Univariate Procedure
+
+Variable=P08A4A
+
+                                    Moments
+
+                    N             65060  Sum Wgts      65060
+                    Mean       18.31236  Sum         1191402
+                    Std Dev    156.9352  Variance   24628.66
+                    Skewness   28.23425  Kurtosis   1101.594
+                    USS        1.6241E9  CSS        1.6023E9
+                    CV         856.9907  Std Mean   0.615267
+                    T:Mean=0   29.76329  Pr>|T|       0.0001
+                    Num ^= 0      41250  Num > 0       41250
+                    M(Sign)       20625  Pr>=|M|      0.0001
+                    Sgn Rank    4.254E8  Pr>=|S|      0.0001
+
+
+                                Quantiles(Def=5)
+
+                     100% Max      9999       99%       242
+                      75% Q3          8       95%        45
+                      50% Med         2       90%        22
+                      25% Q1          0       10%         0
+                       0% Min         0        5%         0
+                                               1%         0
+                     Range         9999                    
+                     Q3-Q1            8                    
+                     Mode             0                    
+
+
+                                    Extremes
+
+                       Lowest    Obs     Highest    Obs
+                            0(   65060)     6459(   21611)
+                            0(   65059)     6706(   21476)
+                            0(   65058)     7054(   21378)
+                            0(   65056)     9817(   21391)
+                            0(   65055)     9999(   60186)
+
+
+                  Podes '93 Section 08 Descriptive Statistics                218
+                                Univariate Stats 20:26 Monday, February 27, 1995
+
+                              Univariate Procedure
+
+Variable=P08A4B
+
+                                    Moments
+
+                    N             65060  Sum Wgts      65060
+                    Mean       5.400661  Sum          351367
+                    Std Dev    90.64552  Variance   8216.611
+                    Skewness   73.61807  Kurtosis   6777.914
+                    USS        5.3646E8  CSS        5.3456E8
+                    CV         1678.415  Std Mean   0.355377
+                    T:Mean=0   15.19699  Pr>|T|       0.0001
+                    Num ^= 0      11351  Num > 0       11351
+                    M(Sign)      5675.5  Pr>=|M|      0.0001
+                    Sgn Rank   32214138  Pr>=|S|      0.0001
+
+
+                                Quantiles(Def=5)
+
+                     100% Max      9999       99%        86
+                      75% Q3          0       95%        16
+                      50% Med         0       90%         5
+                      25% Q1          0       10%         0
+                       0% Min         0        5%         0
+                                               1%         0
+                     Range         9999                    
+                     Q3-Q1            0                    
+                     Mode             0                    
+
+
+                                    Extremes
+
+                       Lowest    Obs     Highest    Obs
+                            0(   65060)     5716(   40858)
+                            0(   65059)     7620(   51383)
+                            0(   65058)     8000(   13668)
+                            0(   65055)     9999(   58325)
+                            0(   65054)     9999(   60186)
+
+
+                  Podes '93 Section 08 Descriptive Statistics                219
+                                Univariate Stats 20:26 Monday, February 27, 1995
+
+                              Univariate Procedure
+
+Variable=P08B1B
+
+                                    Moments
+
+                    N             65060  Sum Wgts      65060
+                    Mean       14.43358  Sum          939049
+                    Std Dev    147.1069  Variance   21640.44
+                    Skewness   27.96093  Kurtosis   1123.955
+                    USS        1.4215E9  CSS        1.4079E9
+                    CV         1019.199  Std Mean   0.576735
+                    T:Mean=0   25.02639  Pr>|T|       0.0001
+                    Num ^= 0       8889  Num > 0        8889
+                    M(Sign)      4444.5  Pr>=|M|      0.0001
+                    Sgn Rank   19755803  Pr>=|S|      0.0001
+
+
+                                Quantiles(Def=5)
+
+                     100% Max      9999       99%       305
+                      75% Q3          0       95%        30
+                      50% Med         0       90%         5
+                      25% Q1          0       10%         0
+                       0% Min         0        5%         0
+                                               1%         0
+                     Range         9999                    
+                     Q3-Q1            0                    
+                     Mode             0                    
+
+
+                                    Extremes
+
+                       Lowest    Obs     Highest    Obs
+                            0(   65060)     6230(   13618)
+                            0(   65059)     6926(   21551)
+                            0(   65058)     7160(   21611)
+                            0(   65056)     8161(   21497)
+                            0(   65055)     9999(   60189)
+
+
+                  Podes '93 Section 08 Descriptive Statistics                220
+                                Univariate Stats 20:26 Monday, February 27, 1995
+
+                              Univariate Procedure
+
+Variable=P08B1C
+
+                                    Moments
+
+                    N             65060  Sum Wgts      65060
+                    Mean       0.923471  Sum           60081
+                    Std Dev    16.51407  Variance   272.7145
+                    Skewness   113.4162  Kurtosis   17933.66
+                    USS        17798017  CSS        17742534
+                    CV         1788.262  Std Mean   0.064744
+                    T:Mean=0    14.2635  Pr>|T|       0.0001
+                    Num ^= 0       9046  Num > 0        9046
+                    M(Sign)        4523  Pr>=|M|      0.0001
+                    Sgn Rank   20459791  Pr>=|S|      0.0001
+
+
+                                Quantiles(Def=5)
+
+                     100% Max      3003       99%        14
+                      75% Q3          0       95%         3
+                      50% Med         0       90%         1
+                      25% Q1          0       10%         0
+                       0% Min         0        5%         0
+                                               1%         0
+                     Range         3003                    
+                     Q3-Q1            0                    
+                     Mode             0                    
+
+
+                                    Extremes
+
+                       Lowest    Obs     Highest    Obs
+                            0(   65060)     1000(   39699)
+                            0(   65059)     1000(   52866)
+                            0(   65058)     1001(   36261)
+                            0(   65057)     1002(   27643)
+                            0(   65056)     3003(   40114)
+
+
+                  Podes '93 Section 08 Descriptive Statistics                221
+                                Univariate Stats 20:26 Monday, February 27, 1995
+
+                              Univariate Procedure
+
+Variable=P08B2B
+
+                                    Moments
+
+                    N             58266  Sum Wgts      58266
+                    Mean         15.808  Sum          921069
+                    Std Dev    55.28654  Variance   3056.602
+                    Skewness   14.08946  Kurtosis   230.3131
+                    USS        1.9265E8  CSS        1.7809E8
+                    CV         349.7377  Std Mean    0.22904
+                    T:Mean=0   69.01844  Pr>|T|       0.0001
+                    Num ^= 0      56115  Num > 0       56115
+                    M(Sign)     28057.5  Pr>=|M|      0.0001
+                    Sgn Rank   7.8724E8  Pr>=|S|      0.0001
+
+
+                                Quantiles(Def=5)
+
+                     100% Max       999       99%       130
+                      75% Q3         13       95%        51
+                      50% Med         6       90%        30
+                      25% Q1          3       10%         1
+                       0% Min         0        5%         1
+                                               1%         0
+                     Range          999                    
+                     Q3-Q1           10                    
+                     Mode             3                    
+
+
+                                    Extremes
+
+                       Lowest    Obs     Highest    Obs
+                            0(   65010)      999(   62912)
+                            0(   64988)      999(   63310)
+                            0(   64968)      999(   63311)
+                            0(   64945)      999(   63312)
+                            0(   64927)      999(   63313)
+
+
+                            Missing Value         .
+                            Count              6794
+                            % Count/Nobs      10.44
+
+
+                  Podes '93 Section 08 Descriptive Statistics                222
+                                Univariate Stats 20:26 Monday, February 27, 1995
+
+                              Univariate Procedure
+
+Variable=P08C1B
+
+                                    Moments
+
+                    N             65060  Sum Wgts      65060
+                    Mean        145.351  Sum         9456537
+                    Std Dev    492.8399  Variance   242891.2
+                    Skewness    9.62802  Kurtosis   125.8558
+                    USS        1.718E10  CSS         1.58E10
+                    CV         339.0688  Std Mean   1.932186
+                    T:Mean=0   75.22622  Pr>|T|       0.0001
+                    Num ^= 0      56519  Num > 0       56519
+                    M(Sign)     28259.5  Pr>=|M|      0.0001
+                    Sgn Rank   7.9861E8  Pr>=|S|      0.0001
+
+
+                                Quantiles(Def=5)
+
+                     100% Max      9999       99%      2144
+                      75% Q3        102       95%       550
+                      50% Med        27       90%       287
+                      25% Q1          5       10%         0
+                       0% Min         0        5%         0
+                                               1%         0
+                     Range         9999                    
+                     Q3-Q1           97                    
+                     Mode             0                    
+
+
+                                    Extremes
+
+                       Lowest    Obs     Highest    Obs
+                            0(   65060)     9999(    2370)
+                            0(   65059)     9999(   10970)
+                            0(   65058)     9999(   10971)
+                            0(   65056)     9999(   10989)
+                            0(   65055)     9999(   18202)
+
+
+                  Podes '93 Section 08 Descriptive Statistics                223
+                                Univariate Stats 20:26 Monday, February 27, 1995
+
+                              Univariate Procedure
+
+Variable=P08C1C
+
+                                    Moments
+
+                    N             65060  Sum Wgts      65060
+                    Mean       177.9309  Sum        11576182
+                    Std Dev    519.1031  Variance     269468
+                    Skewness   10.01754  Kurtosis   137.9143
+                    USS        1.959E10  CSS        1.753E10
+                    CV         291.7443  Std Mean   2.035151
+                    T:Mean=0   87.42884  Pr>|T|       0.0001
+                    Num ^= 0      61070  Num > 0       61070
+                    M(Sign)       30535  Pr>=|M|      0.0001
+                    Sgn Rank    9.324E8  Pr>=|S|      0.0001
+
+
+                                Quantiles(Def=5)
+
+                     100% Max      9999       99%      2124
+                      75% Q3        152       95%     646.5
+                      50% Med        51       90%       369
+                      25% Q1         16       10%         5
+                       0% Min         0        5%         0
+                                               1%         0
+                     Range         9999                    
+                     Q3-Q1          136                    
+                     Mode             0                    
+
+
+                                    Extremes
+
+                       Lowest    Obs     Highest    Obs
+                            0(   64980)     9999(   12992)
+                            0(   64975)     9999(   12993)
+                            0(   64952)     9999(   12996)
+                            0(   64951)     9999(   12999)
+                            0(   64950)     9999(   55352)
+
+
+                  Podes '93 Section 08 Descriptive Statistics                224
+                         Character Variable Frequencies
+                                                 20:26 Monday, February 27, 1995
+
+                                            Cumulative  Cumulative
+              P08A1A   Frequency   Percent   Frequency    Percent 
+              ----------------------------------------------------
+              1           59966      92.2       59966       92.2
+              2            5087       7.8       65053      100.0
+              3               7       0.0       65060      100.0
+
+
+
+
+                                            Cumulative  Cumulative
+              P08A1B   Frequency   Percent   Frequency    Percent 
+              ----------------------------------------------------
+              1           33885      56.5       33885       56.5
+              2           14504      24.2       48389       80.7
+              3           11416      19.0       59805       99.7
+              4             161       0.3       59966      100.0
+
+                            Frequency Missing = 5094
+
+
+
+
+                                            Cumulative  Cumulative
+              P08A1C   Frequency   Percent   Frequency    Percent 
+              ----------------------------------------------------
+              1           53262      88.8       53262       88.8
+              2            6704      11.2       59966      100.0
+
+                            Frequency Missing = 5094
+
+
+
+
+                                             Cumulative  Cumulative
+             P08A2A01   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             1              3564       5.5        3564        5.5
+             2             61496      94.5       65060      100.0
+
+
+
+
+                                             Cumulative  Cumulative
+             P08A2A02   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             3             13820      21.2       13820       21.2
+             4             51240      78.8       65060      100.0
+
+
+
+                  Podes '93 Section 08 Descriptive Statistics                225
+                         Character Variable Frequencies
+                                                 20:26 Monday, February 27, 1995
+
+                                             Cumulative  Cumulative
+             P08A2A03   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             5              7584      11.7        7584       11.7
+             6             57476      88.3       65060      100.0
+
+
+
+
+                                             Cumulative  Cumulative
+             P08A2A04   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             7             10024      15.4       10024       15.4
+             8             55036      84.6       65060      100.0
+
+
+
+
+                                             Cumulative  Cumulative
+             P08A2A05   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             1             27617      42.4       27617       42.4
+             2             37443      57.6       65060      100.0
+
+
+
+
+                                             Cumulative  Cumulative
+             P08A2A06   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             3              1570       2.4        1570        2.4
+             4             63490      97.6       65060      100.0
+
+
+
+
+                                             Cumulative  Cumulative
+             P08A2A07   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             5             47363      72.8       47363       72.8
+             6             17697      27.2       65060      100.0
+
+
+
+
+                                             Cumulative  Cumulative
+             P08A2A08   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             7              8605      13.2        8605       13.2
+             8             56455      86.8       65060      100.0
+
+
+
+                  Podes '93 Section 08 Descriptive Statistics                226
+                         Character Variable Frequencies
+                                                 20:26 Monday, February 27, 1995
+
+                                             Cumulative  Cumulative
+             P08A2A09   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             1              7430      11.4        7430       11.4
+             2             57630      88.6       65060      100.0
+
+
+
+
+                                             Cumulative  Cumulative
+             P08A2A10   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             3              3634       5.6        3634        5.6
+             4             61426      94.4       65060      100.0
+
+
+
+
+                                             Cumulative  Cumulative
+             P08A2A11   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             5               170       0.3         170        0.3
+             6             64890      99.7       65060      100.0
+
+
+
+
+                                             Cumulative  Cumulative
+             P08A2A12   Frequency   Percent   Frequency    Percent 
+             ------------------------------------------------------
+             7              4092       6.3        4092        6.3
+             8             60968      93.7       65060      100.0
+
+
+
+
+                                            Cumulative  Cumulative
+              P08A2C   Frequency   Percent   Frequency    Percent 
+              ----------------------------------------------------
+              1           30060      46.2       30060       46.2
+              2           35000      53.8       65060      100.0
+
+
+
+
+                                           Cumulative  Cumulative
+              P08A3   Frequency   Percent   Frequency    Percent 
+              ---------------------------------------------------
+              1          16979      26.1       16979       26.1
+              2          21433      32.9       38412       59.0
+              3          25973      39.9       64385       99.0
+              4            675       1.0       65060      100.0
+
+
+
+                  Podes '93 Section 08 Descriptive Statistics                227
+                         Character Variable Frequencies
+                                                 20:26 Monday, February 27, 1995
+
+                                            Cumulative  Cumulative
+              P08B1A   Frequency   Percent   Frequency    Percent 
+              ----------------------------------------------------
+              1            5926       9.1        5926        9.1
+              2           59134      90.9       65060      100.0
+
+
+
+
+                                            Cumulative  Cumulative
+              P08B2A   Frequency   Percent   Frequency    Percent 
+              ----------------------------------------------------
+              1            6794      10.4        6794       10.4
+              2           58266      89.6       65060      100.0
+
+
+
+
+                                            Cumulative  Cumulative
+              P08C1A   Frequency   Percent   Frequency    Percent 
+              ----------------------------------------------------
+              1           18135      27.9       18135       27.9
+              2           46925      72.1       65060      100.0
+
+
+
+
+                                           Cumulative  Cumulative
+              P08C2   Frequency   Percent   Frequency    Percent 
+              ---------------------------------------------------
+              1          31197      48.0       31197       48.0
+              2          33863      52.0       65060      100.0
+
+
+
+
+                                            Cumulative  Cumulative
+              P08A2B   Frequency   Percent   Frequency    Percent 
+              ----------------------------------------------------
+                   1        977       1.6         977        1.6
+                   2       2803       4.6        3780        6.2
+                   3        461       0.8        4241        7.0
+                   4       2105       3.5        6346       10.4
+                   5      10098      16.6       16444       27.0
+                   6        223       0.4       16667       27.4
+                   7      36283      59.6       52950       86.9
+                   8       1476       2.4       54426       89.4
+                   9       2764       4.5       57190       93.9
+                  10       1265       2.1       58455       96.0
+                  11         20       0.0       58475       96.0
+                  12       2429       4.0       60904      100.0
+
+                            Frequency Missing = 4156
